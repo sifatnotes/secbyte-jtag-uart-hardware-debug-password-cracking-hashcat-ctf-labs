@@ -1,0 +1,2 @@
+# secbyte-jtag-uart-hardware-debug-password-cracking-hashcat-ctf-labs
+A practical collection of cybersecurity CTF labs covering hardware debugging interfaces (JTAG pinout exploration, UART serial console recovery, silicon-to-secure boot security fundamentals) and password auditing/cracking techniques (Hashcat essentials, John the Ripper, rule-based mutations, mask attacks, rainbow tables, and dictionary attacks).
